@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "posix_opt.h": "c",
+        "time.h": "c"
+    }
+}
