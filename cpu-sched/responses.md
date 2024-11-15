@@ -1,0 +1,2 @@
+1. Response times using FIFO are 0, 200, 400; Turnaround time using FIFO are 200, 400, 600; Response times using SJF are 0, 200, 400; Turnaround time using SJF are 200, 400, 600;
+2. Both response and turnaround times using FIFO are dependent on the order of the jobs. Response times using SJF are 0, 100, 300; turnaround times using SJF are 100, 300, 600
